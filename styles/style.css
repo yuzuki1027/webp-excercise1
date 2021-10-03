@@ -1,0 +1,49 @@
+html{
+    font-size: 20px;
+    text-align: center;
+    background-color:#FFF6ED;
+    color:#40315B;
+}
+.header{
+    padding-top:5px;
+    background:#FCDCD0;
+
+}
+h1{
+    color:#D291BD;
+    text-align: left;
+    margin-left:10%;
+}
+.headmenu{
+  margin:0 0 0 50%; 
+}
+nav ul li{
+    
+    text-align: right;
+    list-style: none;
+    display: inline-block;
+    width: 10%;
+    min-width: 90px;
+    padding:0 10px;
+    
+}
+h4{
+    color:#40315B;
+}
+h5{
+    color:#40315B;
+}
+p{
+    color:#40315B;
+}
+.footer{
+    padding-top:10px;
+    background: #FCDCD0;
+}
+.footerlogo{
+    font-size: 15px;
+}
+
+
+
+    
